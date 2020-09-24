@@ -1,1 +1,1 @@
-Data Scientist at the FinancialTimes in London.
+Data Scientist at the Financial Times in London.
