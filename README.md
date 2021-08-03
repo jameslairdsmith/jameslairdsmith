@@ -1,1 +1,1 @@
-I'm a Data Scientist at the Bank of England in London. Formally at the Financial Times.
+I'm a Data Scientist at the Bank of England. Previously at the Financial Times.
