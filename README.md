@@ -5,3 +5,4 @@ Some things I like:
 - R
 - Sleep
 - Swimming
+- Steno
