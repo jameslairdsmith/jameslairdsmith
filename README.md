@@ -6,3 +6,4 @@ Some things I like:
 - Sleep
 - Swimming
 - Steno
+- Programming
