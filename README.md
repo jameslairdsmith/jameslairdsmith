@@ -7,4 +7,3 @@ Some things I like:
 - Swimming
 - Stenography
 - Programming
-- Keyboards
